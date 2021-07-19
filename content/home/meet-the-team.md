@@ -4,6 +4,7 @@ widget_id: Meet The Team
 headless: true
 weight: 1
 title: Meet The Team
+subtitle: ""
 active: true
 design:
   columns: "2"
